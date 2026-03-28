@@ -1,0 +1,14 @@
+/home/henrique/Documentos/atividade_faculdade/Dolares/bin/Debug/net10.0/Dolares
+/home/henrique/Documentos/atividade_faculdade/Dolares/bin/Debug/net10.0/Dolares.deps.json
+/home/henrique/Documentos/atividade_faculdade/Dolares/bin/Debug/net10.0/Dolares.runtimeconfig.json
+/home/henrique/Documentos/atividade_faculdade/Dolares/bin/Debug/net10.0/Dolares.dll
+/home/henrique/Documentos/atividade_faculdade/Dolares/bin/Debug/net10.0/Dolares.pdb
+/home/henrique/Documentos/atividade_faculdade/Dolares/obj/Debug/net10.0/Dolares.GeneratedMSBuildEditorConfig.editorconfig
+/home/henrique/Documentos/atividade_faculdade/Dolares/obj/Debug/net10.0/Dolares.AssemblyInfoInputs.cache
+/home/henrique/Documentos/atividade_faculdade/Dolares/obj/Debug/net10.0/Dolares.AssemblyInfo.cs
+/home/henrique/Documentos/atividade_faculdade/Dolares/obj/Debug/net10.0/Dolares.csproj.CoreCompileInputs.cache
+/home/henrique/Documentos/atividade_faculdade/Dolares/obj/Debug/net10.0/Dolares.dll
+/home/henrique/Documentos/atividade_faculdade/Dolares/obj/Debug/net10.0/refint/Dolares.dll
+/home/henrique/Documentos/atividade_faculdade/Dolares/obj/Debug/net10.0/Dolares.pdb
+/home/henrique/Documentos/atividade_faculdade/Dolares/obj/Debug/net10.0/Dolares.genruntimeconfig.cache
+/home/henrique/Documentos/atividade_faculdade/Dolares/obj/Debug/net10.0/ref/Dolares.dll

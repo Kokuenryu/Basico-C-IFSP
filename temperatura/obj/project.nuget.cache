@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "61WV2bq7O8c=",
+  "success": true,
+  "projectFilePath": "/home/henrique/Documentos/atividade_faculdade/temperatura/temperatura.csproj",
+  "expectedPackageFiles": [
+    "/home/henrique/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

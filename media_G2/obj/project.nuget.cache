@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P+NUNey4ZAY=",
+  "success": true,
+  "projectFilePath": "/home/henrique/Documentos/atividade_faculdade/media_G2/media_G2.csproj",
+  "expectedPackageFiles": [
+    "/home/henrique/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

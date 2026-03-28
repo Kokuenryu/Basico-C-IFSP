@@ -1,0 +1,14 @@
+/home/henrique/Documentos/atividade_faculdade/area_retangulo/bin/Debug/net10.0/area_retangulo
+/home/henrique/Documentos/atividade_faculdade/area_retangulo/bin/Debug/net10.0/area_retangulo.deps.json
+/home/henrique/Documentos/atividade_faculdade/area_retangulo/bin/Debug/net10.0/area_retangulo.runtimeconfig.json
+/home/henrique/Documentos/atividade_faculdade/area_retangulo/bin/Debug/net10.0/area_retangulo.dll
+/home/henrique/Documentos/atividade_faculdade/area_retangulo/bin/Debug/net10.0/area_retangulo.pdb
+/home/henrique/Documentos/atividade_faculdade/area_retangulo/obj/Debug/net10.0/area_retangulo.GeneratedMSBuildEditorConfig.editorconfig
+/home/henrique/Documentos/atividade_faculdade/area_retangulo/obj/Debug/net10.0/area_retangulo.AssemblyInfoInputs.cache
+/home/henrique/Documentos/atividade_faculdade/area_retangulo/obj/Debug/net10.0/area_retangulo.AssemblyInfo.cs
+/home/henrique/Documentos/atividade_faculdade/area_retangulo/obj/Debug/net10.0/area_retangulo.csproj.CoreCompileInputs.cache
+/home/henrique/Documentos/atividade_faculdade/area_retangulo/obj/Debug/net10.0/area_retangulo.dll
+/home/henrique/Documentos/atividade_faculdade/area_retangulo/obj/Debug/net10.0/refint/area_retangulo.dll
+/home/henrique/Documentos/atividade_faculdade/area_retangulo/obj/Debug/net10.0/area_retangulo.pdb
+/home/henrique/Documentos/atividade_faculdade/area_retangulo/obj/Debug/net10.0/area_retangulo.genruntimeconfig.cache
+/home/henrique/Documentos/atividade_faculdade/area_retangulo/obj/Debug/net10.0/ref/area_retangulo.dll

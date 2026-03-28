@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7/J/ocREjMc=",
+  "success": true,
+  "projectFilePath": "/home/henrique/Documentos/atividade_faculdade/milhas_km/milhas_km.csproj",
+  "expectedPackageFiles": [
+    "/home/henrique/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

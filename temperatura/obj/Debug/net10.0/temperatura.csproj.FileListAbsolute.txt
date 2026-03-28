@@ -1,0 +1,14 @@
+/home/henrique/Documentos/atividade_faculdade/temperatura/bin/Debug/net10.0/temperatura
+/home/henrique/Documentos/atividade_faculdade/temperatura/bin/Debug/net10.0/temperatura.deps.json
+/home/henrique/Documentos/atividade_faculdade/temperatura/bin/Debug/net10.0/temperatura.runtimeconfig.json
+/home/henrique/Documentos/atividade_faculdade/temperatura/bin/Debug/net10.0/temperatura.dll
+/home/henrique/Documentos/atividade_faculdade/temperatura/bin/Debug/net10.0/temperatura.pdb
+/home/henrique/Documentos/atividade_faculdade/temperatura/obj/Debug/net10.0/temperatura.GeneratedMSBuildEditorConfig.editorconfig
+/home/henrique/Documentos/atividade_faculdade/temperatura/obj/Debug/net10.0/temperatura.AssemblyInfoInputs.cache
+/home/henrique/Documentos/atividade_faculdade/temperatura/obj/Debug/net10.0/temperatura.AssemblyInfo.cs
+/home/henrique/Documentos/atividade_faculdade/temperatura/obj/Debug/net10.0/temperatura.csproj.CoreCompileInputs.cache
+/home/henrique/Documentos/atividade_faculdade/temperatura/obj/Debug/net10.0/temperatura.dll
+/home/henrique/Documentos/atividade_faculdade/temperatura/obj/Debug/net10.0/refint/temperatura.dll
+/home/henrique/Documentos/atividade_faculdade/temperatura/obj/Debug/net10.0/temperatura.pdb
+/home/henrique/Documentos/atividade_faculdade/temperatura/obj/Debug/net10.0/temperatura.genruntimeconfig.cache
+/home/henrique/Documentos/atividade_faculdade/temperatura/obj/Debug/net10.0/ref/temperatura.dll

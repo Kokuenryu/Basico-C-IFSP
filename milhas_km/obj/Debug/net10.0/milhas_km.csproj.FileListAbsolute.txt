@@ -1,0 +1,14 @@
+/home/henrique/Documentos/atividade_faculdade/milhas_km/bin/Debug/net10.0/milhas_km
+/home/henrique/Documentos/atividade_faculdade/milhas_km/bin/Debug/net10.0/milhas_km.deps.json
+/home/henrique/Documentos/atividade_faculdade/milhas_km/bin/Debug/net10.0/milhas_km.runtimeconfig.json
+/home/henrique/Documentos/atividade_faculdade/milhas_km/bin/Debug/net10.0/milhas_km.dll
+/home/henrique/Documentos/atividade_faculdade/milhas_km/bin/Debug/net10.0/milhas_km.pdb
+/home/henrique/Documentos/atividade_faculdade/milhas_km/obj/Debug/net10.0/milhas_km.GeneratedMSBuildEditorConfig.editorconfig
+/home/henrique/Documentos/atividade_faculdade/milhas_km/obj/Debug/net10.0/milhas_km.AssemblyInfoInputs.cache
+/home/henrique/Documentos/atividade_faculdade/milhas_km/obj/Debug/net10.0/milhas_km.AssemblyInfo.cs
+/home/henrique/Documentos/atividade_faculdade/milhas_km/obj/Debug/net10.0/milhas_km.csproj.CoreCompileInputs.cache
+/home/henrique/Documentos/atividade_faculdade/milhas_km/obj/Debug/net10.0/milhas_km.dll
+/home/henrique/Documentos/atividade_faculdade/milhas_km/obj/Debug/net10.0/refint/milhas_km.dll
+/home/henrique/Documentos/atividade_faculdade/milhas_km/obj/Debug/net10.0/milhas_km.pdb
+/home/henrique/Documentos/atividade_faculdade/milhas_km/obj/Debug/net10.0/milhas_km.genruntimeconfig.cache
+/home/henrique/Documentos/atividade_faculdade/milhas_km/obj/Debug/net10.0/ref/milhas_km.dll

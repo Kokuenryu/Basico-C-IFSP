@@ -1,0 +1,14 @@
+/home/henrique/Documentos/atividade_faculdade/area_quadrado/obj/Debug/net10.0/area_quadrado.GeneratedMSBuildEditorConfig.editorconfig
+/home/henrique/Documentos/atividade_faculdade/area_quadrado/obj/Debug/net10.0/area_quadrado.AssemblyInfoInputs.cache
+/home/henrique/Documentos/atividade_faculdade/area_quadrado/obj/Debug/net10.0/area_quadrado.AssemblyInfo.cs
+/home/henrique/Documentos/atividade_faculdade/area_quadrado/obj/Debug/net10.0/area_quadrado.csproj.CoreCompileInputs.cache
+/home/henrique/Documentos/atividade_faculdade/area_quadrado/bin/Debug/net10.0/area_quadrado
+/home/henrique/Documentos/atividade_faculdade/area_quadrado/bin/Debug/net10.0/area_quadrado.deps.json
+/home/henrique/Documentos/atividade_faculdade/area_quadrado/bin/Debug/net10.0/area_quadrado.runtimeconfig.json
+/home/henrique/Documentos/atividade_faculdade/area_quadrado/bin/Debug/net10.0/area_quadrado.dll
+/home/henrique/Documentos/atividade_faculdade/area_quadrado/bin/Debug/net10.0/area_quadrado.pdb
+/home/henrique/Documentos/atividade_faculdade/area_quadrado/obj/Debug/net10.0/area_quadrado.dll
+/home/henrique/Documentos/atividade_faculdade/area_quadrado/obj/Debug/net10.0/refint/area_quadrado.dll
+/home/henrique/Documentos/atividade_faculdade/area_quadrado/obj/Debug/net10.0/area_quadrado.pdb
+/home/henrique/Documentos/atividade_faculdade/area_quadrado/obj/Debug/net10.0/area_quadrado.genruntimeconfig.cache
+/home/henrique/Documentos/atividade_faculdade/area_quadrado/obj/Debug/net10.0/ref/area_quadrado.dll

@@ -1,0 +1,14 @@
+/home/henrique/Documentos/atividade_faculdade/media_A4/obj/Debug/net10.0/media_A4.GeneratedMSBuildEditorConfig.editorconfig
+/home/henrique/Documentos/atividade_faculdade/media_A4/obj/Debug/net10.0/media_A4.AssemblyInfoInputs.cache
+/home/henrique/Documentos/atividade_faculdade/media_A4/obj/Debug/net10.0/media_A4.AssemblyInfo.cs
+/home/henrique/Documentos/atividade_faculdade/media_A4/obj/Debug/net10.0/media_A4.csproj.CoreCompileInputs.cache
+/home/henrique/Documentos/atividade_faculdade/media_A4/bin/Debug/net10.0/media_A4
+/home/henrique/Documentos/atividade_faculdade/media_A4/bin/Debug/net10.0/media_A4.deps.json
+/home/henrique/Documentos/atividade_faculdade/media_A4/bin/Debug/net10.0/media_A4.runtimeconfig.json
+/home/henrique/Documentos/atividade_faculdade/media_A4/bin/Debug/net10.0/media_A4.dll
+/home/henrique/Documentos/atividade_faculdade/media_A4/bin/Debug/net10.0/media_A4.pdb
+/home/henrique/Documentos/atividade_faculdade/media_A4/obj/Debug/net10.0/media_A4.dll
+/home/henrique/Documentos/atividade_faculdade/media_A4/obj/Debug/net10.0/refint/media_A4.dll
+/home/henrique/Documentos/atividade_faculdade/media_A4/obj/Debug/net10.0/media_A4.pdb
+/home/henrique/Documentos/atividade_faculdade/media_A4/obj/Debug/net10.0/media_A4.genruntimeconfig.cache
+/home/henrique/Documentos/atividade_faculdade/media_A4/obj/Debug/net10.0/ref/media_A4.dll

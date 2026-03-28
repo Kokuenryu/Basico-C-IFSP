@@ -1,0 +1,14 @@
+/home/henrique/Documentos/atividade_faculdade/produtos5/bin/Debug/net10.0/produtos5
+/home/henrique/Documentos/atividade_faculdade/produtos5/bin/Debug/net10.0/produtos5.deps.json
+/home/henrique/Documentos/atividade_faculdade/produtos5/bin/Debug/net10.0/produtos5.runtimeconfig.json
+/home/henrique/Documentos/atividade_faculdade/produtos5/bin/Debug/net10.0/produtos5.dll
+/home/henrique/Documentos/atividade_faculdade/produtos5/bin/Debug/net10.0/produtos5.pdb
+/home/henrique/Documentos/atividade_faculdade/produtos5/obj/Debug/net10.0/produtos5.GeneratedMSBuildEditorConfig.editorconfig
+/home/henrique/Documentos/atividade_faculdade/produtos5/obj/Debug/net10.0/produtos5.AssemblyInfoInputs.cache
+/home/henrique/Documentos/atividade_faculdade/produtos5/obj/Debug/net10.0/produtos5.AssemblyInfo.cs
+/home/henrique/Documentos/atividade_faculdade/produtos5/obj/Debug/net10.0/produtos5.csproj.CoreCompileInputs.cache
+/home/henrique/Documentos/atividade_faculdade/produtos5/obj/Debug/net10.0/produtos5.dll
+/home/henrique/Documentos/atividade_faculdade/produtos5/obj/Debug/net10.0/refint/produtos5.dll
+/home/henrique/Documentos/atividade_faculdade/produtos5/obj/Debug/net10.0/produtos5.pdb
+/home/henrique/Documentos/atividade_faculdade/produtos5/obj/Debug/net10.0/produtos5.genruntimeconfig.cache
+/home/henrique/Documentos/atividade_faculdade/produtos5/obj/Debug/net10.0/ref/produtos5.dll

@@ -1,0 +1,14 @@
+/home/henrique/Documentos/atividade_faculdade/media_G2/bin/Debug/net10.0/media_G2
+/home/henrique/Documentos/atividade_faculdade/media_G2/bin/Debug/net10.0/media_G2.deps.json
+/home/henrique/Documentos/atividade_faculdade/media_G2/bin/Debug/net10.0/media_G2.runtimeconfig.json
+/home/henrique/Documentos/atividade_faculdade/media_G2/bin/Debug/net10.0/media_G2.dll
+/home/henrique/Documentos/atividade_faculdade/media_G2/bin/Debug/net10.0/media_G2.pdb
+/home/henrique/Documentos/atividade_faculdade/media_G2/obj/Debug/net10.0/media_G2.GeneratedMSBuildEditorConfig.editorconfig
+/home/henrique/Documentos/atividade_faculdade/media_G2/obj/Debug/net10.0/media_G2.AssemblyInfoInputs.cache
+/home/henrique/Documentos/atividade_faculdade/media_G2/obj/Debug/net10.0/media_G2.AssemblyInfo.cs
+/home/henrique/Documentos/atividade_faculdade/media_G2/obj/Debug/net10.0/media_G2.csproj.CoreCompileInputs.cache
+/home/henrique/Documentos/atividade_faculdade/media_G2/obj/Debug/net10.0/media_G2.dll
+/home/henrique/Documentos/atividade_faculdade/media_G2/obj/Debug/net10.0/refint/media_G2.dll
+/home/henrique/Documentos/atividade_faculdade/media_G2/obj/Debug/net10.0/media_G2.pdb
+/home/henrique/Documentos/atividade_faculdade/media_G2/obj/Debug/net10.0/media_G2.genruntimeconfig.cache
+/home/henrique/Documentos/atividade_faculdade/media_G2/obj/Debug/net10.0/ref/media_G2.dll

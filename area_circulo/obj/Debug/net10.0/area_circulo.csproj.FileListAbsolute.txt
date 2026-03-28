@@ -1,0 +1,14 @@
+/home/henrique/Documentos/atividade_faculdade/area_circulo/bin/Debug/net10.0/area_circulo
+/home/henrique/Documentos/atividade_faculdade/area_circulo/bin/Debug/net10.0/area_circulo.deps.json
+/home/henrique/Documentos/atividade_faculdade/area_circulo/bin/Debug/net10.0/area_circulo.runtimeconfig.json
+/home/henrique/Documentos/atividade_faculdade/area_circulo/bin/Debug/net10.0/area_circulo.dll
+/home/henrique/Documentos/atividade_faculdade/area_circulo/bin/Debug/net10.0/area_circulo.pdb
+/home/henrique/Documentos/atividade_faculdade/area_circulo/obj/Debug/net10.0/area_circulo.GeneratedMSBuildEditorConfig.editorconfig
+/home/henrique/Documentos/atividade_faculdade/area_circulo/obj/Debug/net10.0/area_circulo.AssemblyInfoInputs.cache
+/home/henrique/Documentos/atividade_faculdade/area_circulo/obj/Debug/net10.0/area_circulo.AssemblyInfo.cs
+/home/henrique/Documentos/atividade_faculdade/area_circulo/obj/Debug/net10.0/area_circulo.csproj.CoreCompileInputs.cache
+/home/henrique/Documentos/atividade_faculdade/area_circulo/obj/Debug/net10.0/area_circulo.dll
+/home/henrique/Documentos/atividade_faculdade/area_circulo/obj/Debug/net10.0/refint/area_circulo.dll
+/home/henrique/Documentos/atividade_faculdade/area_circulo/obj/Debug/net10.0/area_circulo.pdb
+/home/henrique/Documentos/atividade_faculdade/area_circulo/obj/Debug/net10.0/area_circulo.genruntimeconfig.cache
+/home/henrique/Documentos/atividade_faculdade/area_circulo/obj/Debug/net10.0/ref/area_circulo.dll

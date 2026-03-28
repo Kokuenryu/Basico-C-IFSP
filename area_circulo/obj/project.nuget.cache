@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OU+1AgfEhMg=",
+  "success": true,
+  "projectFilePath": "/home/henrique/Documentos/atividade_faculdade/area_circulo/area_circulo.csproj",
+  "expectedPackageFiles": [
+    "/home/henrique/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/home/henrique/Documentos/atividade_faculdade/pow/bin/Debug/net10.0/pow
+/home/henrique/Documentos/atividade_faculdade/pow/bin/Debug/net10.0/pow.deps.json
+/home/henrique/Documentos/atividade_faculdade/pow/bin/Debug/net10.0/pow.runtimeconfig.json
+/home/henrique/Documentos/atividade_faculdade/pow/bin/Debug/net10.0/pow.dll
+/home/henrique/Documentos/atividade_faculdade/pow/bin/Debug/net10.0/pow.pdb
+/home/henrique/Documentos/atividade_faculdade/pow/obj/Debug/net10.0/pow.GeneratedMSBuildEditorConfig.editorconfig
+/home/henrique/Documentos/atividade_faculdade/pow/obj/Debug/net10.0/pow.AssemblyInfoInputs.cache
+/home/henrique/Documentos/atividade_faculdade/pow/obj/Debug/net10.0/pow.AssemblyInfo.cs
+/home/henrique/Documentos/atividade_faculdade/pow/obj/Debug/net10.0/pow.csproj.CoreCompileInputs.cache
+/home/henrique/Documentos/atividade_faculdade/pow/obj/Debug/net10.0/pow.dll
+/home/henrique/Documentos/atividade_faculdade/pow/obj/Debug/net10.0/refint/pow.dll
+/home/henrique/Documentos/atividade_faculdade/pow/obj/Debug/net10.0/pow.pdb
+/home/henrique/Documentos/atividade_faculdade/pow/obj/Debug/net10.0/pow.genruntimeconfig.cache
+/home/henrique/Documentos/atividade_faculdade/pow/obj/Debug/net10.0/ref/pow.dll
