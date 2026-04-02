@@ -23,3 +23,12 @@ Este repositório contém a resolução da primeira lista de exercícios de lóg
 * **Linguagem:** C# (.NET 10)
 * **Ambiente:** Linux (configurado via Git SSH)
 * **Paradigma:** Programação Estruturada
+
+> [!IMPORTANT]
+> **Aviso de Compatibilidade (.NET)**
+> 
+> Se você **não possui** o SDK do .NET 10 instalado, os arquivos na raiz das pastas não irão rodar. 
+> Para executar sem instalar nada, utilize o executável autônomo localizado em:
+> `[Nome_do_Exercicio]/bin/Release/net10.0/win-x64/publish/`
+>
+> Lá você encontrará o `.exe` que já contém todas as bibliotecas necessárias inclusas.
