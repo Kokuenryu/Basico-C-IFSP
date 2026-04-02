@@ -28,7 +28,8 @@ Este repositório contém a resolução da primeira lista de exercícios de lóg
 > **Aviso de Compatibilidade (.NET)**
 > 
 > Se você **não possui** o SDK do .NET 10 instalado, os arquivos na raiz das pastas não irão rodar. 
-> Para executar sem instalar nada, utilize o executável autônomo localizado em:
-> `[Nome_do_Exercicio]/bin/Release/net10.0/win-x64/publish/`
->
-> Lá você encontrará o `.exe` que já contém todas as bibliotecas necessárias inclusas.
+> 
+> **Opções para execução:**
+> 1. **Localmente:** Utilize o executável autônomo em `[Nome_do_Exercicio]/bin/Release/net10.0/win-x64/publish/`.
+> 2. **Releases (Recomendado):** Para maior facilidade, acesse a seção de [**Releases**](https://github.com/Kokuenryu/Basico-C-IFSP/releases) e baixe o pacote pronto para uso.
+
