@@ -1,0 +1,2 @@
+/home/henrique/Documentos/atividade_faculdade/Dolares/bin/Release/net10.0/win-x64/publish/Dolares.pdb
+/home/henrique/Documentos/atividade_faculdade/Dolares/bin/Release/net10.0/win-x64/publish/Dolares.exe

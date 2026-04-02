@@ -1,0 +1,2 @@
+/home/henrique/Documentos/atividade_faculdade/area_retangulo/bin/Release/net10.0/win-x64/publish/area_retangulo.pdb
+/home/henrique/Documentos/atividade_faculdade/area_retangulo/bin/Release/net10.0/win-x64/publish/area_retangulo.exe

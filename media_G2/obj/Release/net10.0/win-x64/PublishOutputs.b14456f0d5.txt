@@ -1,0 +1,2 @@
+/home/henrique/Documentos/atividade_faculdade/media_G2/bin/Release/net10.0/win-x64/publish/media_G2.pdb
+/home/henrique/Documentos/atividade_faculdade/media_G2/bin/Release/net10.0/win-x64/publish/media_G2.exe

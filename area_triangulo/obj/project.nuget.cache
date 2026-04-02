@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "8fgB63A3KrQ=",
+  "dgSpecHash": "HYVcbAJK0q8=",
   "success": true,
   "projectFilePath": "/home/henrique/Documentos/atividade_faculdade/area_triangulo/area_triangulo.csproj",
   "expectedPackageFiles": [
-    "/home/henrique/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+    "/home/henrique/.nuget/packages/microsoft.net.illink.tasks/10.0.4/microsoft.net.illink.tasks.10.0.4.nupkg.sha512",
+    "/home/henrique/.nuget/packages/microsoft.netcore.app.runtime.win-x64/10.0.4/microsoft.netcore.app.runtime.win-x64.10.0.4.nupkg.sha512",
+    "/home/henrique/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512",
+    "/home/henrique/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/10.0.4/microsoft.aspnetcore.app.runtime.win-x64.10.0.4.nupkg.sha512",
+    "/home/henrique/.nuget/packages/microsoft.netcore.app.host.win-x64/10.0.4/microsoft.netcore.app.host.win-x64.10.0.4.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,2 @@
+/home/henrique/Documentos/atividade_faculdade/area_quadrado/bin/Release/net10.0/win-x64/publish/area_quadrado.pdb
+/home/henrique/Documentos/atividade_faculdade/area_quadrado/bin/Release/net10.0/win-x64/publish/area_quadrado.exe

@@ -1,0 +1,2 @@
+/home/henrique/Documentos/atividade_faculdade/milhas_km/bin/Release/net10.0/win-x64/publish/milhas_km.pdb
+/home/henrique/Documentos/atividade_faculdade/milhas_km/bin/Release/net10.0/win-x64/publish/milhas_km.exe

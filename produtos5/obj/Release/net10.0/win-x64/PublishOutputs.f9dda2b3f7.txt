@@ -1,0 +1,2 @@
+/home/henrique/Documentos/atividade_faculdade/produtos5/bin/Release/net10.0/win-x64/publish/produtos5.pdb
+/home/henrique/Documentos/atividade_faculdade/produtos5/bin/Release/net10.0/win-x64/publish/produtos5.exe
